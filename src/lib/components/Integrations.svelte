@@ -8,10 +8,10 @@
       Integrations
     </div>
     <h2 class="font-serif text-4xl text-gray-900 mb-6">
-      Establish your single source of truth
+      Works with your existing tech stack
     </h2>
     <p class="text-gray-500 leading-relaxed max-w-2xl mx-auto">
-      Seamless two-way integrations with back office, cashflow, portfolio, document management, and advice platforms ensure complete control of client data.
+      Glynac connects seamlessly with leading CRMs, portfolio management systems, custodian platforms, and document management tools. Your data stays where it is—we just make it accessible.
     </p>
   </div>
 
@@ -24,29 +24,29 @@
       
       <!-- Logo 1 -->
       <div class="w-16 h-16 bg-white rounded-full shadow-sm border border-gray-100 flex items-center justify-center p-3">
-        <div class="text-[10px] font-bold text-gray-400">iress</div>
+        <div class="text-[10px] font-bold text-gray-700">Salesforce</div>
       </div>
 
        <!-- Logo 2 -->
       <div class="w-16 h-16 bg-white rounded-full shadow-sm border border-gray-100 flex items-center justify-center p-3">
-        <div class="text-[10px] font-bold text-blue-500">intelliflo</div>
+        <div class="text-[10px] font-bold text-gray-700">Orion</div>
       </div>
 
-       <!-- Center Logo (Saturn) -->
-      <div class="w-24 h-24 bg-blue-900 rounded-full shadow-lg border-4 border-white flex items-center justify-center p-2 relative">
-        <div class="text-white font-serif font-bold text-xs tracking-widest">SATURN</div>
+       <!-- Center Logo (Glynac) -->
+      <div class="w-24 h-24 bg-gray-900 rounded-full shadow-lg border-4 border-white flex items-center justify-center p-2 relative">
+        <div class="text-white font-serif font-bold text-xs tracking-widest">GLYNAC</div>
         <!-- Orbit ring visual -->
-        <div class="absolute inset-0 rounded-full border border-blue-700 scale-110 opacity-50"></div>
+        <div class="absolute inset-0 rounded-full border border-gray-700 scale-110 opacity-50"></div>
       </div>
 
        <!-- Logo 3 -->
       <div class="w-16 h-16 bg-white rounded-full shadow-sm border border-gray-100 flex items-center justify-center p-3">
-        <div class="text-[10px] font-bold text-green-600">T4A</div>
+        <div class="text-[10px] font-bold text-gray-700">Schwab</div>
       </div>
 
        <!-- Logo 4 -->
       <div class="w-16 h-16 bg-white rounded-full shadow-sm border border-gray-100 flex items-center justify-center p-3">
-        <div class="text-[10px] font-bold text-blue-400">365</div>
+        <div class="text-[10px] font-bold text-gray-700">Redtail</div>
       </div>
 
     </div>

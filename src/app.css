@@ -18,7 +18,8 @@
 	--color-gray-900: oklch(0.216 0.006 56.043);
 	--color-gray-950: oklch(0.147 0.004 49.25);
 
-	--color-primary-blue: #10249F; /* Deep Royal Blue */
+	--color-primary: oklch(0.696 0.17 162.48); /* Glynac Primary - Teal */
+	--color-primary-600: oklch(0.596 0.145 163.225);
 	--color-bg-light: #F9F9F9;
 }
 
